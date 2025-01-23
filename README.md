@@ -1,2 +1,2 @@
-# The-95s
-A target-setting playground
+# The 95s (R Shiny)
+A target-setting playground for PEPFAR.
